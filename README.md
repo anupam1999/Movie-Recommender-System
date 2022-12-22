@@ -8,7 +8,7 @@ Designed a web application that aims to provide 95-98 %  recommended data based 
 
 
 
-### Home page of System
+## Home page of System
 ![movie1](https://user-images.githubusercontent.com/41635465/187893845-9ddd767e-efa3-4b76-abd4-40b9d0314219.png)
 ![movie2](https://user-images.githubusercontent.com/41635465/187893861-98f4f323-3eec-469f-bb7a-99d3cb633aa8.png)
 
